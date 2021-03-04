@@ -1,11 +1,11 @@
-### 大龄代码爱好者  
-### Python Go JavaScript
-咬定青山不放松，  
+### 高龄代码爱好者<img src="https://github-readme-stats.vercel.app/api?username=run-nerver&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />   
+
+咬定青山不放松，   
 立根原在破岩中。  
 千磨万击还坚劲，  
 任尔东西南北风。
 
-<img src="https://github-readme-stats.vercel.app/api?username=run-nerver&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
 
 <img src="https://github-profile-trophy.vercel.app/?username=run-nerver&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 <!--
